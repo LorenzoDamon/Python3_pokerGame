@@ -1,2 +1,2 @@
 # Python3_pokerGame
-This is a Poker game which determines a win using 5 hands in the programming language Python 
+This is a Poker hand evaluator game which determines a win based on hand ranks, Suits or Pairs using 5 hands poker in the programming language Python3

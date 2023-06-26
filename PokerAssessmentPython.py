@@ -1,4 +1,4 @@
-r# Poker assessment for RSAWEB -Lorenzo Damon Developer
+# Poker assessment for RSAWEB -Lorenzo Damon Developer
 
 
 #import math, random to generate random values 

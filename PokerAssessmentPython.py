@@ -1,4 +1,4 @@
-# Poker assessment for RSAWEB -Lorenzo Damon Developer
+r# Poker assessment for RSAWEB -Lorenzo Damon Developer
 
 
 #import math, random to generate random values 
@@ -19,6 +19,9 @@ class Card (object):
     self.rank = rank
     self.suit = suit
 
+
+  #store high card values in suits or pairs
+  
   def __str__ (self):
     if self.rank == 14:
       rank = 'A'
